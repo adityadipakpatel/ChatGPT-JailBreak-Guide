@@ -1,4 +1,4 @@
-# ChatGPT-JailBreak-Guide
+# A Simple Guide to JailBreak ChatGPT
 
 # JailBreaking ChatGPT
 > **Disclaimer:** This document is intended solely for educational purposes. The method described herein for jailbreaking ChatGPT is not intended for malicious purposes. The author of this document holds no responsibility for any misuse of the method outlined.
